@@ -1,0 +1,4 @@
+> mydata=c(600,300,150,100,200)
+> mylabel=c("Housing","Food","Clothes","Entertainment","Others")
+> pie(x=mydata,labels=mylabel)
+> pie(x=mydata,labels=mylabel)
